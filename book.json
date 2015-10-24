@@ -8,7 +8,9 @@
     ],
     "pluginsConfig": {
         "shortName": "Openmindclub",
-        "shortName": "mytestbook"
+        "disqus":{
+             "shortName":"mytestbook"
+                }
     }
 }
 
