@@ -4,7 +4,7 @@
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
 - [问题手记](QA/README.md)
-  +[git多账户问题](QA/gituser.md)
+  + [git多账户问题](QA/gituser.md)
 - [代码 (_src)](_src/README.md)
 - [素材 (draft)](draft/README.md)
   + [教程该怎么写](draft/how2tutorial.md)
