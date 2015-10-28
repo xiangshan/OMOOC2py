@@ -7,3 +7,4 @@
 欢迎讨论[issue](https://github.com/xiangshan/OMOOC2py/issues) 
 
 github 地址[github](https://github.com/xiangshan/OMOOC2py)
+gitbook 地址[gitbook](https://xiangshan.gitbooks.io/omooc2py/content/)
